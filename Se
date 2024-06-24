@@ -1,0 +1,124 @@
+**Microsoft** offers a wide range of development tools used for various software engineering tasks. 
+1. **Visual Studio (IDE):** 
+    * **Introduction:** An integrated development environment (IDE) for building various software applications. 
+    * **Uses:** Code editing, debugging, testing, deployment, and collaboration for web, mobile, desktop, and cloud applications.
+    * **Applications:** Developing applications in various programming languages (C#, C++, Python, etc.) and frameworks (.NET, Xamarin, etc.).
+
+2. **Microsoft Azure (Cloud Platform):** 
+    * **Introduction:** A cloud computing platform offering a range of services like compute, storage, databases, analytics, and AI.
+    * **Uses:** Building, deploying, and managing applications on a scalable and on-demand infrastructure.
+    * **Applications:**  Creating web apps, mobile backends, serverless functions, and deploying large-scale applications.
+
+3. **Microsoft SQL Server (Database Management System):** 
+    * **Introduction:** A relational database management system for storing, organizing, and retrieving data.
+    * **Uses:** Data storage, manipulation, querying, and analysis for various applications.
+    * **Applications:** Building enterprise applications, data warehousing, and business intelligence solutions.
+
+4. **Microsoft Office 365 Development Tools (API & Add-in Development):** 
+    * **Introduction:**  A set of tools for extending and integrating with Microsoft Office applications like Word, Excel, and PowerPoint.
+    * **Uses:** Creating custom add-ins, automating tasks, and extending the functionality of Office applications.
+    * **Applications:** Building productivity tools, reports, and data visualizations within the familiar Office environment.
+
+5. **PowerShell (Scripting Language):** 
+    * **Introduction:** A task automation and configuration management framework for Windows and Azure environments.
+    * **Uses:** Automating repetitive tasks, managing system configurations, and deploying applications.
+    * **Applications:** Scripting infrastructure management, automating cloud deployments, and streamlining DevOps processes.
+
+* **Microsoft Teams (Collaboration Platform):** A communication and collaboration platform for teams, enabling real-time chat, video meetings, file sharing, and project management.
+
+
+
+week-2
+
+
+
+Schedule for Sub Activities using PERT/CPM Charts with in Phases and its Activities 
+Creating a detailed schedule for activities and sub-activities in a Work Breakdown Structure 
+(WBS) for System Automation involves breaking down the project into manageable tasks, 
+estimating their durations, and sequencing them logically to create a timeline. 
+Below is a sample schedule for System Automation, based on a hypothetical WBS:
+Project: System Automation
+Phase 1: Planning and Analysis
+1. Define Project Scope and Objectives
+    Activity: Scope Definition -1 week
+    Sub-activities:
+    1 Review project requirements
+   .2 Identify stakeholders
+   .3 Define project goals and success criteria
+2. Gather Requirements
+2.1 Activity: Requirements Gathering - 2 weeks
+ Sub-activities:
+  1 Conduct interviews with stakeholders
+   2 Analyse existing systems and processes
+    3 Document functional and non-functional requirements
+3. Create Project Plan
+3.1 Activity: Project Planning - 1 week
+ Sub-activities:
+   1 Develop project schedule
+   2 Define resource requirements
+   3 Allocate budget and resources
+Phase 2: Design and Development
+4. System Architecture Design
+4.1 Activity: Architecture Design - 2 week
+ Sub-activities:
+   1 Design system architecture
+   2 Define components and interfaces
+   3 Document architectural decisions 
+5. Develop Automation Scripts
+5.1 Activity: Script Development - 4 weeks
+ Sub-activities:
+   1 Write automation scripts for system tasks
+   2 Test and debug scripts
+   3 Document script usage and best practices
+6. Integration Testing
+Activity: Testing and Integration - 3 weeks
+Sub-activities:
+1 Integrate automation scripts with existing systems
+.2 Conduct end-to-end testing
+.3 Validate system functionality and performance
+
+Phase 3: Deployment and Maintenance
+
+7. Deployment
+
+7.1 Activity: Deployment - 1 week
+ Sub-activities:
+.1 Prepare for production deployment
+.2 Roll out automation system to users
+3 Monitor deployment process and address issues
+
+8. User Training and Documentation
+
+8.1 Activity: Training and Documentation - 1 week
+
+ Sub-activities:
+
+8.1.1 Develop user training materials
+
+8.1.2 Conduct training sessions
+
+8.1.3 Document system usage and troubleshooting procedures
+
+9. Post-Deployment Support
+ Activity: Support and Maintenance – On-going
+Sub-activities:
+ Provide on-going support to users
+ Monitor system performance and reliability
+ Implement updates and patches as needed
+
+Week 1-3: Scope Definition, Requirements Gathering -A
+
+ Week 4: Project Planning-B
+
+ Week 5-6: System Architecture Design-C
+
+ Week 7-10: Script Development-D
+
+ Week 11-13: Integration Testing-E
+
+ Week 14: Deployment-F
+
+ Week 15: Training-G
+
+ Week 15 onwards: Post-Deployment Support (On-going)
+ Duration: On-going
